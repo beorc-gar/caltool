@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+PRODID:demo.ics
+VERSION:2.0
+BEGIN:VTODO
+SUMMARY:Finish A4 for Angel of Death
+PRIORITY:1
+ORGANIZER;CN=William Gardner:mailto:gardnerw@uoguelph.ca
+LOCATION:Guelph
+DTSTART:20160408T235900Z
+END:VTODO
+BEGIN:VTODO
+SUMMARY:Finish Final Project for Marketing
+PRIORITY:2
+ORGANIZER;CN=Sergio Meza:mailto:smeza@uoguelph.ca
+LOCATION:Guelph
+DTSTART:20160409T235900Z
+END:VTODO
+BEGIN:VTODO
+SUMMARY:Do MyEconLab
+PRIORITY:3
+ORGANIZER;CN=Eveline Adomait:mailto:eadomait@uoguelph.ca
+LOCATION:Online
+DTSTART:20160410T235900Z
+END:VTODO
+BEGIN:VEVENT
+SUMMARY:Recruitment Session
+ORGANIZER;CN=Patricia Kopec:mailto:patricia@intrigueme.ca
+LOCATION:Innovation Guelph
+DTSTART:20160414T190000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PKing
+ORGANIZER;CN=Bronson Graansma:mailto:bgraansm@mail.uoguelph.ca
+LOCATION:Online
+DTSTART:20160429T220000Z
+END:VEVENT
+BEGIN:VTODO
+SUMMARY:Defeat the Ender Dragon
+PRIORITY:4
+ORGANIZER;CN=Bronson Graansma:mailto:bgraansm@mail.uoguelph.ca
+LOCATION:Online
+DTSTART:20160430T220000Z
+END:VTODO
+BEGIN:VTODO
+PRIORITY:5
+SUMMARY:Acquire Thunderfury, Blessed Blade of the Windseeker
+ORGANIZER;CN=Bronson Graansma:mailto:bgraansm@mail.uoguelph.ca
+LOCATION:Online
+DTSTART:20160503T220000Z
+END:VTODO
+BEGIN:VEVENT
+SUMMARY:New episode of Itachi-chan
+ORGANIZER;CN=Rachel Beimers:mailto:rachelbunny66@hotmail.com
+LOCATION:Woodstock
+DTSTART:20160407T063000Z
+END:VEVENT
+END:VCALENDAR
