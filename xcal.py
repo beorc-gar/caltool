@@ -415,7 +415,7 @@ def aboutme():
     top.wm_title("About xcal")
     
     title   = "xcal"
-    author  = "Bronson Graansma"
+    author  = "beorc-gar"
     version = "iCalendar v2.0"
 
     Label(top, text=title,                      font=("Times", 22, "bold"), fg="navy").pack()
