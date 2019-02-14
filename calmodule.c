@@ -1,6 +1,4 @@
 /* calmodule.c
- * Author: Bronson Graansma 0872249
- * Contact: bgraansm@mail.uoguelph.ca
  * Date: March 17, 2016
  * Description: python - c extension for xcal */
 
