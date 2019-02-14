@@ -1,6 +1,4 @@
 /* calutil.c
- * Author: Bronson Graansma 0872249
- * Contact: bgraansm@mail.uoguelph.ca
  * Date: Feb 21, 2016
  * Description: Reads in an ics file and stores meaningful info in memory.
  *              Various status codes are provided in order to discern what
