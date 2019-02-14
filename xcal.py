@@ -2,8 +2,6 @@
 
 '''
  ' xcal.py
- ' Author: Bronson Graansma 0872249
- ' Contact: bgraansm@mail.uoguelph.ca
  ' Date: April 7, 2016
  ' Description: Tkinter GUI to interact with caltool + mySQL
 '''
