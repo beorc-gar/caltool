@@ -1,6 +1,4 @@
 /* caltool.h
- * Author: Bronson Graansma 0872249
- * Contact: bgraansm@mail.uoguelph.ca
  * Date: Feb 21, 2016
  * Description: Public Interface for calutil. */
 
